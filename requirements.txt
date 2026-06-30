@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+accelerate
+deepspeed
+trl
+sentence-transformers
+vllm
+numpy
+scikit-learn
+matplotlib
+tqdm
+rouge-score
+bert-score
+jieba
