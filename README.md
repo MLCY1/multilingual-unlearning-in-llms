@@ -254,7 +254,7 @@ python steeringVector.py \
   --llm-model-size 7B \
   --aux-language English \
   --target-languages English Chinese German Russian Turkish \
-  --alpha-list 0.25 0.5 1.0 1.5 2.0
+  --alpha-list 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
 ```
 
 Random-vector baseline:
@@ -265,7 +265,7 @@ python steeringVector.py \
   --llm-model-size 7B \
   --aux-language English \
   --target-languages English Chinese German Russian Turkish \
-  --alpha-list 0.25 0.5 1.0 1.5 2.0 \
+  --alpha-list 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 \
   --random-baseline
 ```
 
