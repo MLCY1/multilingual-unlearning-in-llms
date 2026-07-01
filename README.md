@@ -1,4 +1,4 @@
-# Multilingual Unlearning in LLMs: Reproduction Guide
+# Multilingual Unlearning in LLMs
 
 This repository accompanies the paper **Multilingual Unlearning in LLMs: Transfer, Dynamics, and Reversibility**. The paper studies whether unlearning targeted facts in one language transfers to other languages, how that transfer appears in hidden representations, and how much suppressed knowledge can be recovered with inference-time steering.
 
